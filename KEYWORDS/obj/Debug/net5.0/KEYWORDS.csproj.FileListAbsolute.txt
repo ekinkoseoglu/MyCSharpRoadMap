@@ -1,0 +1,16 @@
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\KEYWORDS.exe
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\KEYWORDS.deps.json
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\KEYWORDS.runtimeconfig.json
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\KEYWORDS.runtimeconfig.dev.json
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\KEYWORDS.dll
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\ref\KEYWORDS.dll
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\bin\Debug\net5.0\KEYWORDS.pdb
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.csprojAssemblyReference.cache
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.AssemblyInfoInputs.cache
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.AssemblyInfo.cs
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.csproj.CoreCompileInputs.cache
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.dll
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\ref\KEYWORDS.dll
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.pdb
+C:\Users\Ekin  Köseoğlu\source\repos\CSharpRoadMap\KEYWORDS\obj\Debug\net5.0\KEYWORDS.genruntimeconfig.cache
