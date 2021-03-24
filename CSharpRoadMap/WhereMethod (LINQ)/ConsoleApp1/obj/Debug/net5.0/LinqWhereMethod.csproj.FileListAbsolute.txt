@@ -1,0 +1,16 @@
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqWhereMethod.exe
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqWhereMethod.deps.json
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqWhereMethod.runtimeconfig.json
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqWhereMethod.runtimeconfig.dev.json
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqWhereMethod.dll
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\LinqWhereMethod.dll
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqWhereMethod.pdb
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.csprojAssemblyReference.cache
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.AssemblyInfoInputs.cache
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.AssemblyInfo.cs
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.csproj.CoreCompileInputs.cache
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.dll
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\LinqWhereMethod.dll
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.pdb
+C:\Users\ekind\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqWhereMethod.genruntimeconfig.cache
