@@ -15,7 +15,7 @@ namespace ARRAYS
                 5,6,7,8,9
             };
             // Çok Boyutlu Arrayler ise birden fazla satır aralığına birden fazla sıralı değer atayabildiğimiz Array türüdür
-            // Multi Dimension Array 
+            // MULTI DIMENSION ARRAY
             string[,] MyClassroom2 = new string[2, 3]
             {
                /* İlk satır*/ {"Ali","Ayşe","Ahmet" }, /* İkinci satır */{"Sedat","Ece","Kayra"},
