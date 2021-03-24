@@ -9,7 +9,7 @@ namespace ARRAYS
             //Arrayler Tek boyutlu ve çok boyutlu olmak üzere yaratılmışlardır.
             // tek boyutlu Arrayler içerisinde tek bir satır üzerine sıralı bir şekilde değerleri atamamıza izin veren Array türüdür
 
-            // Single Dimension Array
+            // SINGLE DIMENSION ARRAY
             int[] MyClassroom = new int[]
             {
                 5,6,7,8,9
