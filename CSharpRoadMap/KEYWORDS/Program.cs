@@ -55,7 +55,7 @@ namespace KEYWORDS
     }
 
     internal class BaseClass
-    // Internal Class kullanımını görelim. BaseClass türünü Internal Class olarak tanımlayalım. Main metodu içerisinde BaseClass()' a erişim sağlandığını görüyoruz.
+    // Internal Class kullanımını inceleyelim. BaseClass türünü Internal Class olarak tanımlayalım. Main metodu içerisinde BaseClass()' a erişim sağlandığını görüyoruz.
     {
         internal int Id { get; set; }
         internal int UserId { get; set; }
