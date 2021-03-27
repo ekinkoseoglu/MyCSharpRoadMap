@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ekin  Köseoğlu\\source\\repos\\CSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj": {}
+    "C:\\Users\\ekind\\Documents\\GitHub\\MyCSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ekin  Köseoğlu\\source\\repos\\CSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj": {
+    "C:\\Users\\ekind\\Documents\\GitHub\\MyCSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ekin  Köseoğlu\\source\\repos\\CSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj",
+        "projectUniqueName": "C:\\Users\\ekind\\Documents\\GitHub\\MyCSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj",
         "projectName": "KEYWORDS",
-        "projectPath": "C:\\Users\\Ekin  Köseoğlu\\source\\repos\\CSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj",
-        "packagesPath": "C:\\Users\\Ekin  Köseoğlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ekin  Köseoğlu\\source\\repos\\CSharpRoadMap\\KEYWORDS\\obj\\",
+        "projectPath": "C:\\Users\\ekind\\Documents\\GitHub\\MyCSharpRoadMap\\KEYWORDS\\KEYWORDS.csproj",
+        "packagesPath": "C:\\Users\\ekind\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekind\\Documents\\GitHub\\MyCSharpRoadMap\\KEYWORDS\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ekin  Köseoğlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ekind\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
