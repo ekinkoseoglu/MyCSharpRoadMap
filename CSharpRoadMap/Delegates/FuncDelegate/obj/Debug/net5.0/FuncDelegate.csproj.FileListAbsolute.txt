@@ -1,0 +1,16 @@
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\FuncDelegate.exe
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\FuncDelegate.deps.json
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\FuncDelegate.runtimeconfig.json
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\FuncDelegate.runtimeconfig.dev.json
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\FuncDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\ref\FuncDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\bin\Debug\net5.0\FuncDelegate.pdb
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.csprojAssemblyReference.cache
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.AssemblyInfoInputs.cache
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.AssemblyInfo.cs
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\ref\FuncDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.pdb
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\FuncDelegate\obj\Debug\net5.0\FuncDelegate.genruntimeconfig.cache
