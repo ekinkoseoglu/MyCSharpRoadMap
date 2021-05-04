@@ -1,0 +1,15 @@
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\PredicateDelegate.exe
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\PredicateDelegate.deps.json
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\PredicateDelegate.runtimeconfig.json
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\PredicateDelegate.runtimeconfig.dev.json
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\PredicateDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\ref\PredicateDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\bin\Debug\net5.0\PredicateDelegate.pdb
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.AssemblyInfoInputs.cache
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.AssemblyInfo.cs
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\ref\PredicateDelegate.dll
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.pdb
+C:\Users\ekind\Desktop\Programming\Practise\Delegates\PredicateDelegate\obj\Debug\net5.0\PredicateDelegate.genruntimeconfig.cache
