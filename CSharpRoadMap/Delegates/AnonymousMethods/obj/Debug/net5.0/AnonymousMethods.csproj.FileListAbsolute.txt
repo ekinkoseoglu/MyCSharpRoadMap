@@ -1,0 +1,15 @@
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.exe
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.deps.json
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.runtimeconfig.json
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.runtimeconfig.dev.json
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\ref\AnonymousMethods.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.pdb
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\ref\AnonymousMethods.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.pdb
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\Delegates\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.genruntimeconfig.cache
