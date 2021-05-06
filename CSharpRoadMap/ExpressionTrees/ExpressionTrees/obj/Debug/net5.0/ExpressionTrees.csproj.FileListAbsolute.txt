@@ -1,0 +1,16 @@
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ExpressionTrees.exe
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ExpressionTrees.deps.json
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ExpressionTrees.runtimeconfig.json
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ExpressionTrees.runtimeconfig.dev.json
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ExpressionTrees.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ref\ExpressionTrees.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\bin\Debug\net5.0\ExpressionTrees.pdb
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.csprojAssemblyReference.cache
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.AssemblyInfoInputs.cache
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.AssemblyInfo.cs
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.csproj.CoreCompileInputs.cache
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ref\ExpressionTrees.dll
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.pdb
+C:\Users\ekind\Desktop\Programming\Github\MyCSharpRoadMap\CSharpRoadMap\ExpressionTrees\ExpressionTrees\obj\Debug\net5.0\ExpressionTrees.genruntimeconfig.cache
