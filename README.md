@@ -1,11 +1,10 @@
 # MyCSharpRoadMap
 
-Hepinize merhabalar ben Ekin, 23 yaşındayım ve C# programlamaya 2 ay önce başladım. 
-Eğitimim ve yolculuğum boyunca her gün öğrendiğim yeni şeyleri sizinle paylaşmak ve Github platformunu daha aktif ve doğru kullanabilmeyi anlamak adına paylaşım yapıyorum  amacım benimle birlikte yeni başlamış insanlar bularak onların da benim kaçırdığım ya da kendilerinin de önemli gördüğü başka konularda bu Repository'e ekleme yapması ve bu RoadMap'i yeni başlayacak insanlar adına kolay ve anlaşılır bir rehber haline getirmektir.
+Hello all, I'm Ekin, I'm 23 years old and I started C# programming 2 months ago. I share with you in order to share with you the new things I learned every day during my education and journey and to understand how to use the Github platform more actively and correctly. It is to make RoadMap an easy and understandable guide for beginners like me.
 
-Benim gözümden kaçan veya sizin özellikle eklemekm istediğiniz bölümleri Request göndererek ekleyebilirsiniz lütfen çekinmeyin.
+You can add the missing or especially the parts you want to add by sending a request, please feel free.
 
-Değerli vaktinizi harcadığınız için teşekkürler.
+:dart: Thanks for spending your precious time.
 
 
 
